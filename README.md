@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on any projects that may develop, enhance, and maintain my knowledge of web development.
 - 📫 How to reach me: 
-      -email: premiumconsulting@jettdembin.dev
+      -email: programming@jettdembin.dev
 
 <!---
 jettdembin/jettdembin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
