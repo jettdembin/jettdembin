@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
       -email: programming@jettdembin.dev
 - 🙌 Portfolio:
-      Please see personal porfolio website at https://www.jettdembin.dev      
+      Please see my personal porfolio website at https://www.jettdembin.dev      
 
 
 <!---
