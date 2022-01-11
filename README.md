@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Node.js and Express.js.
 - 👾 I’m looking to collaborate on any projects that may develop, enhance, and maintain my knowledge of web development.
 - 📫 How to reach me: 
-      -email: programming@jettdembin.dev
+      programming@jettdembin.dev
 - 🙌 Portfolio:
       https://www.jettdembin.dev      
 
