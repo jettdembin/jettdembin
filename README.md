@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jett Dembin.
-- 👀 I’m interested in expanding my breadth and depth of programming knowledge as much as possible during my free time.
 - 🌱 I’m currently studying Node.js and Express.js.
 - 👾 I’m looking to collaborate on any projects that may develop, enhance, and maintain my knowledge of web development.
 - ⭐ Starred projects indicate they are on my portfolio.
