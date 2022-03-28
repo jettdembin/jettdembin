@@ -14,7 +14,7 @@
       programming@jettdembin.dev
 
  ## Languages and Tools 🛠 
-<img align="left" alt="Next JS" src="https://wakatime.com/badge/user/ac15a806-5102-4e51-99e1-123206018645.svg"/>
+<a href="https://wakatime.com/@ac15a806-5102-4e51-99e1-123206018645"><img align="left" src="https://wakatime.com/badge/user/ac15a806-5102-4e51-99e1-123206018645.svg" alt="WakaTime" /></a>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="left"  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -31,6 +31,7 @@
 <img align="left" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img align="left" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 
+
 ##            
 ## 
 ## 
@@ -43,6 +44,8 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=quizApp"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=jobBoardApi"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=photowebsite"/>
+
+
 
 
 <!---
