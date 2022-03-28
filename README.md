@@ -12,11 +12,11 @@
       https://www.jettdembin.dev 
 - 📫 How to reach me: 
       programming@jettdembin.dev
-<hr>
+<!-- <hr>
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jettdembin&layout=compact"/>
-<hr>
+<hr> -->
 
-## Portfolio Projects
+## Portfolio Projects 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=mockyoutubeAPI)](https://github.com/anuraghazra/github-readme-stats)
