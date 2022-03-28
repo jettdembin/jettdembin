@@ -2,7 +2,7 @@
 
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jettdembin&theme=radical&show_icons=true"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact"/>
 </div>
 
 - 🌱 I’m currently studying Angular.
@@ -16,16 +16,16 @@
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jettdembin&layout=compact"/>
 <hr> -->
 
-## Portfolio Projects 
+## Portfolio Projects 🙌
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=mockyoutubeAPI"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=todoList"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=quizApp"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=jobBoardApi"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=photowebsite"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=mockyoutubeAPI)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=todoList)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=quizApp)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=jobBoardApi)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=photowebsite)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jettdembin/jettdembin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
