@@ -1,7 +1,9 @@
 # Hi there, I’m Jett Dembin! 👋
 
+<div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jettdembin&theme=radical&show_icons=true"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact"/>
+</div>
 
 - 🌱 I’m currently studying Angular.
 - 👾 I’m looking to collaborate on any projects that may develop, enhance, and maintain my knowledge of web development.
@@ -10,6 +12,8 @@
       https://www.jettdembin.dev 
 - 📫 How to reach me: 
       programming@jettdembin.dev
+<hr>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jettdembin&layout=compact"/>
 
 
 <!---
