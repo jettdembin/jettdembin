@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently studying Angular.
 - 👾 I’m looking to collaborate on any projects that may develop, enhance, and maintain my knowledge of web development.
-- ⭐ Starred projects indicate they are on my portfolio.
-- 🙌 Portfolio:
-      https://www.jettdembin.dev 
+- 🙌 Portfolio: 
+      https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
 - 📫 How to reach me: 
       programming@jettdembin.dev
 
