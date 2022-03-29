@@ -13,7 +13,7 @@
 - 📫 How to reach me: 
       programming@jettdembin.dev
 
- ## Languages and Tools 🛠 
+ ## Languages and Tools/ Interests 🛠 
 <a href="https://wakatime.com/@ac15a806-5102-4e51-99e1-123206018645"><img align="left" src="https://wakatime.com/badge/user/ac15a806-5102-4e51-99e1-123206018645.svg" alt="WakaTime" /></a>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
