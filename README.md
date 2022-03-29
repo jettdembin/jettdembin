@@ -1,8 +1,8 @@
 # Hi there, I’m Jett Dembin! 👋
 
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jettdembin&theme=radical&show_icons=true"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color="/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jettdembin&theme=radical&show_icons=true&border_color=29D9FF"/>
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
 </div>
 
 - 🌱 I’m currently studying Angular.
@@ -38,28 +38,28 @@
 ## Portfolio Projects 💫
 
 <a href="https://github.com/jettdembin/beatMaker">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/photowebsite">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=photowebsite&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=photowebsite&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/mockyoutubeapi">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=mockyoutubeapi&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=mockyoutubeapi&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/calculator">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/ecommerce">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/todoList">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=todoList&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=todoList&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/quizApp">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=quizApp&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=quizApp&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/jobBoardApi">
-      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=jobBoardApi&theme=radical"/>
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=jobBoardApi&theme=radical&border_color=29D9FF"/>
 </a>
 
 
