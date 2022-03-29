@@ -6,7 +6,7 @@
 </div>
 
 - 🌱 I’m currently studying Angular.
-- 👾 I’m looking to collaborate on any projects that may develop, enhance, and maintain my knowledge of web development.
+- 😍 Passionate about studying, learning, and trying new things 
 - 🙌 Portfolio: 
       https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
 - 📫 How to reach me: 
