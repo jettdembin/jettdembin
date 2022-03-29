@@ -36,14 +36,30 @@
 ## 
 ## 
 ## Portfolio Projects 💫
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=mockyoutubeAPI"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=todoList"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=quizApp"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=jobBoardApi"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=photowebsite"/>
+<a href="https://github.com/jettdembin/beatMaker">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker"/>
+</a>
+<a href="https://github.com/jettdembin/mockyoutubeapi">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=mockyoutubeapi"/>
+</a>
+<a href="https://github.com/jettdembin/calculator">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator"/>
+</a>
+<a href="https://github.com/jettdembin/ecommerce">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce"/>
+</a>
+<a href="https://github.com/jettdembin/todoList">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=todoList"/>
+</a>
+<a href="https://github.com/jettdembin/quizApp">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=quizApp"/>
+</a>
+<a href="https://github.com/jettdembin/jobBoardApi">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=jobBoardApi"/>
+</a>
+<a href="https://github.com/jettdembin/photowebsite">
+      <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=photowebsite"/>
+</a>
 
 
 
