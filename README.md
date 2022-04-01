@@ -5,8 +5,8 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
 </div>
 
-- 🌱 I’m currently studying Angular.
-- 😍 Passionate about studying, learning, and trying new things 
+- 🌱 I’m currently studying Angular
+- 😍 Passionate about studying, learning, and trying anything with programming
 - 🙌 Portfolio: 
       https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
 - 📫 How to reach me: 
