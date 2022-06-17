@@ -5,12 +5,11 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
 </div>
 
-- 🌱 I’m currently studying Angular
 - 😍 Passionate about studying, learning, and trying anything with programming
 - 🙌 Portfolio: 
       https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
 - 📫 How to reach me: 
-      programming@jettdembin.dev
+      jd.dev96@gmail.com
 
  ## Languages and Tools / Interests 🛠 
 <a href="https://wakatime.com/@ac15a806-5102-4e51-99e1-123206018645"><img align="left" src="https://wakatime.com/badge/user/ac15a806-5102-4e51-99e1-123206018645.svg" alt="WakaTime" /></a>
