@@ -1,8 +1,13 @@
 # Hi there, I’m Jett Dembin! 👋
 
 <div>
+      <div>
+            
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jettdembin&theme=radical&show_icons=true&border_color=29D9FF"/>
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
+      </div>
+      <div>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
+</div>
 </div>
 
 - 😍 Passionate about studying, learning, and trying anything with programming
