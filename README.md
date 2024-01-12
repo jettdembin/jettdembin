@@ -41,10 +41,10 @@
       <img align="right"  width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=beatMaker&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/calculator">
-      <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator&theme=radical&border_color=29D9FF"/>
+      <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=calculator&theme=radical&border_color=29D9FF"/>
 </a>
 <a href="https://github.com/jettdembin/ecommerce">
-      <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce&theme=radical&border_color=29D9FF"/>
+      <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=jettdembin&repo=ecommerce&theme=radical&border_color=29D9FF"/>
 </a>
 
 
