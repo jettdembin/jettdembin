@@ -10,7 +10,7 @@
     </div>
 </div>
 
-<div>
+<div style="clear: both;">
     - 😍 Passionate about studying, learning, and trying anything with programming
 - 🙌 Portfolio: https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
 - 📫 How to reach me: jd.dev96@gmail.com
