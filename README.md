@@ -9,7 +9,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
     </div>
 </div>
-
+<br clear="all">
 <div style="clear: both;">
     - 😍 Passionate about studying, learning, and trying anything with programming
 - 🙌 Portfolio: https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
