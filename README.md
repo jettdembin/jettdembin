@@ -10,9 +10,12 @@
     </div>
 </div>
 
-- 😍 Passionate about studying, learning, and trying anything with programming
+<div>
+    - 😍 Passionate about studying, learning, and trying anything with programming
 - 🙌 Portfolio: https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
 - 📫 How to reach me: jd.dev96@gmail.com
+</div>
+
 
  ## Languages and Tools / Interests 🛠 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
