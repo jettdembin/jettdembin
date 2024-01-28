@@ -1,18 +1,18 @@
 # Hi there, I’m Jett Dembin! 👋
 
+
 <div style="display: flex; justify-content: space-between;">
-      <div><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=jettdembin&theme=radical&show_icons=true&border_color=29D9FF"/>
-      </div>
-      <div>
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
-      </div>
+    <div style="width: 48%;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=jettdembin&theme=radical&show_icons=true&border_color=29D9FF"/>
+    </div>
+    <div style="width: 48%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettdembin&layout=compact&theme=radical&border_color=29D9FF"/>
+    </div>
 </div>
 
 - 😍 Passionate about studying, learning, and trying anything with programming
-- 🙌 Portfolio: 
-      https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
-- 📫 How to reach me: 
-      jd.dev96@gmail.com
+- 🙌 Portfolio: https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
+- 📫 How to reach me: jd.dev96@gmail.com
 
  ## Languages and Tools / Interests 🛠 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
