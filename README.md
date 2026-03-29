@@ -13,7 +13,7 @@
 <div style="clear: both;">
     - 😍 Passionate about studying, learning, and trying anything with programming
 </div>
-- 🙌 Portfolio: https://www.jettdembin.dev | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
+- 🙌 Portfolio: [https://www.jettdembin.dev](https://jettdembinportfolio.netlify.app/) | Commits for Portfolio: https://bitbucket.org/jettdembin/portfolio/src/master/
 <br clear="all">
 <div>- 📫 How to reach me: jd.dev96@gmail.com</div>
 
